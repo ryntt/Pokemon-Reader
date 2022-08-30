@@ -1,5 +1,5 @@
 # Pokemon-Reader
-This is a program designed to read a spreadsheet (pokemon.csv) of Pokemon characteristics and filter and sort Pokemon based on specific criteria. 
+This is a program designed to read a spreadsheet (pokemon.csv) of Pokemon characteristics, collect information that has been read, and filter and sort Pokemon based on specific criteria. 
 It also uses JUnit/Hamcrest to implement test methods to ensure the program works correctly. 
 ## Instructions for Running the Program
 NOTE: JUnit and Hamcrest must be installed in order for the program to run correctly. The program works with JUnit 4.13.2 and Hamcrest 2.2. 
